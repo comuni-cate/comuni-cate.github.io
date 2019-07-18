@@ -7,6 +7,8 @@ author: author2
 noindex: true
 ---
 
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScrKGVccz_UK1GS1ZWAozUgwwohxd2KfE4qeiz-NpCB8WZTJg/viewform?embedded=true" width="640" height="1634" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
 Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
 
 **NOTE**: This post is outdated and only included for legacy reasons.
