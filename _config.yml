@@ -341,5 +341,3 @@ compress_html:
 
 sass:
   style:               compressed
-
-theme: jekyll-theme-minimal
